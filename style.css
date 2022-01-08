@@ -73,3 +73,24 @@ span{
     border-radius: 15px;
     background-color: rgb(189, 117, 179);
 }
+.Limits{
+    display: flex;
+    margin-top: 110px;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 30%;
+}
+.Limits img{
+    width: 75%;
+    margin-left: 20%;
+}
+.girls-fonts{
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.hading-taitle-1{
+    font-size: 60px;
+   
+}
