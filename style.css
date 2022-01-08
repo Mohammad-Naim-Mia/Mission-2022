@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-bar{
+    display: flex;
+    
+}
+.main-bar{
+    width: 50%;
+    margin: 5%;
+}
+.main-bar img{
+    width: 95%;
+}
+span{
+    color: orange;
+}
+.font-color{
+    font-size: 62px;
+    border-left: 3px solid tomato ;
+    
+}
+.batton{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 5px 20px;
+    color: white;
+    border-radius: 15px;
+}
+.scrool{
+    margin-top: 60px;
+}
