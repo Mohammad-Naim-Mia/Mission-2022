@@ -1,4 +1,5 @@
 body{
+    margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
 .top-bar{
@@ -85,7 +86,7 @@ span{
     width: 75%;
     margin-left: 20%;
 }
-.girls-fonts{
+.driskiption-fonts{
     width: 100%;
     padding-left: 5%;
     padding-right: 5%;
@@ -93,4 +94,46 @@ span{
 .hading-taitle-1{
     font-size: 60px;
    
+}
+.study-bar{
+    display: flex;
+    margin-top: 110px;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 25%;
+}
+.study-bar img{
+    width: 75%;
+    margin-right: 20%;
+}
+.footer-bar{
+    display: flex;
+}
+.footer-bar img{
+    width: 95%;
+    height: 95%;
+    margin-left: 10%;
+}
+.footer-fonts{
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 15%;
+}
+.footer-hadding{
+    font-size: 60px;
+}
+.middle-hading-2{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 110px;
+    margin-bottom: 60px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 150px;
+    padding: 20px 25%;
 }
