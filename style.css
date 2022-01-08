@@ -30,3 +30,46 @@ span{
 .scrool{
     margin-top: 60px;
 }
+.middle-bar{
+    display: flex;
+    margin: 5%;
+}
+.middle-hading{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.icon-images{
+    width: 100px;
+}
+.middle-bar-1{
+    width: 80%;
+    height: 350px;
+   margin-left: px;
+   margin-right: 50px;
+    padding-left: 40px;
+    padding-right: 20px;
+    border-radius: 15px;
+    background-color: rgb(125, 125, 185);
+}
+.middle-bar-2{
+    width: 80%;
+    height: 350px;
+   margin-left: px;
+   margin-right: 50px;
+    padding-left: 40px;
+    padding-right: 20px;
+    border-radius: 15px;
+    background-color: rgb(93, 182, 116);
+}
+.middle-bar-3{
+    width: 80%;
+    height: 350px;
+   margin-left: px;
+   margin-right: 50px;
+    padding-left: 40px;
+    padding-right: 20px;
+    border-radius: 15px;
+    background-color: rgb(189, 117, 179);
+}
